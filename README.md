@@ -88,3 +88,30 @@ The deep learning model successfully identified churn-prone customers and achiev
 ---
 
 ## 📁 Project Structure
+├── data/
+├── notebooks/
+├── model/
+├── app/
+├── README.md
+
+
+---
+
+## 🧑‍💻 Author
+Aman Singh  
+B.Tech CSE (Data Science)  
+
+---
+
+## ⭐ Acknowledgements
+- Kaggle for dataset  
+- TensorFlow & Keras community  
+
+---
+
+## 📌 How to Run
+```bash
+git clone https://github.com/your-username/churn-prediction-deep-learning.git
+cd churn-prediction-deep-learning
+pip install -r requirements.txt
+python main.py
